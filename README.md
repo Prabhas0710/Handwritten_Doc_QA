@@ -197,7 +197,7 @@ This will:
 
 ## 🧠 Author
 
-**Varshini Vaddepalli**    
+**Prabhas Tummala**    
 📍 Hyderabad, India
 
 ---
